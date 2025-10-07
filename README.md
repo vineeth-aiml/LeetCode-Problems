@@ -49,7 +49,6 @@ Each problem includes:
 
 ## 💡 How to Run
 
-```bash
 # Clone the repository
 git clone https://github.com/VineethReddy1997/LeetCode-Problems.git
 
@@ -76,9 +75,8 @@ This repository is my journey to mastering DSA, Python coding, and problem-solvi
 
 ## 📬 Connect with Me
 
-## 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineethreddy1997/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E?style=flat-square&logo=github&logoColor=white)](https://github.com/VineethReddy1997)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/vineethreddy07/)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/vineethreddy1997/)
-- 🐙 [GitHub](https://github.com/VineethReddy1997)
-- 🧠 [LeetCode Profile](https://leetcode.com/u/vineethreddy07/)
 
