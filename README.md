@@ -11,7 +11,7 @@ This repository contains structured **Data Structures & Algorithms problems** so
 
 ## 🎯 Motivation
 
-This repo is designed to:
+This repo is designed to :
 
 - 💪 Strengthen **core DSA skills**  
 - 🏹 Prepare for **technical interviews** (Python Backend & ML roles)  
