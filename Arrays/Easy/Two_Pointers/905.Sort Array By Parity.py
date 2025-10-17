@@ -47,18 +47,16 @@
 # ------------------------------------------------------------
 
 def sortArrayByParity(nums):
-    evens = []
-    odds = []
+    even = []
+    odd = []
 
-    # Step 1: Separate even and odd numbers
     for x in nums:
-        if x % 2 == 0:
-            evens.append(x)
+        if x%2==0:
+            even.append(x)
         else:
-            odds.append(x)
+            odd.append(x)
 
-    # Step 2: Combine both lists
-    return evens + odds
+    return even+odd
 
 
 # ✅ Test Brute Force
