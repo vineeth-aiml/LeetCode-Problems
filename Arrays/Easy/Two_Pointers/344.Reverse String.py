@@ -32,13 +32,12 @@ print(s)
 # Time: O(n), Space: O(1)
 
 def reverseString(s):
-    l = 0
-    r = len(s)-1
-    while l < r:
-        s[l], s[r] = s[r], s[l]
-        l += 1
-        r -= 1
-
+    l = 0  # left from zero
+    r = len(s)-1  # right from end of array
+    while l < r:  # while meet l and r
+        s[l], s[r] = s[r], s[l] # swap two ends
+        l += 1 # move left to right after swap 
+        r -= 1 # move right to left after swap
 s = ["H","a","n","n","a","h"]
 reverseString(s)
 print(s)
