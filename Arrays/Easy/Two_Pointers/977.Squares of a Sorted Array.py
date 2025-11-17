@@ -102,3 +102,6 @@ print(sortedSquares(nums))  # Output: [4, 9, 9, 49, 121]
 # | Brute Force    | O(n log n) | O(n)   | Sort after squaring |
 # | Two Pointers   | O(n)       | O(n)   | ✅ Best — linear scan only |
 # ============================================================
+
+
+
