@@ -58,7 +58,7 @@ git clone https://github.com/VineethReddy1997/LeetCode-Problems.git
 cd LeetCode-Problems/Arrays/Easy
 
 3️⃣ Run a Python file
-python 1.Two_Sum.py
+python filename.py
 
 ---
 
